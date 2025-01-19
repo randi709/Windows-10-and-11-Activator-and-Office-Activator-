@@ -44,5 +44,4 @@ irm https://dub.sh/activator | iex
 
 https://streamable.com/6l636o
 
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">]([https://youtu.be/<VIDEO ID>](https://streamable.com/6l636o))
 
